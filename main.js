@@ -1,5 +1,1 @@
-function saludo(nombre) {
-    console.log(nombre)
-}
-
-saludo("Alan")
+console.log("Hola Mundo")
